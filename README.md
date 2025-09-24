@@ -57,7 +57,7 @@ Kurz: kleine, praktische Python-Projekte für Security-Learning — verantwortun
 
 ---
 
-### 5) CLI-Toolkit — `hack_toolkit.py`
+### 5) CLI-Toolkit — `CLI-toolkit.py`
 
 **Was es tut:** Bündelt die Module unter einer einfachen CLI (Subcommands: `parse`, `screenshot`, `ping`, `listenkeys`). Dein kleiner Pip-Boy für den Alltag.
 
